@@ -5,7 +5,7 @@
 
 <div align="center">
   <a href="https://github.com/pedromussolin">
-  <img height="150em" src="https://github-readme-stats.vercel.app/apipedromussolin=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=pedromussolin)](https://github.com/anuraghazra/github-readme-stats)"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedromussolin&layout=compact&langs_count=7&theme=gotham"/>
 </div>
 
