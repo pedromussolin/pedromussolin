@@ -1,4 +1,4 @@
-## Olá! eu sou o Pedro Mussolin.
+## Hi! I'm Pedro Mussolin.
 
 - 🔭 Cursando Análise e desenvolvimento de sistemas
 - 👯 Estudando algumas linguagens de programação como JS, C, Java, entre outras
