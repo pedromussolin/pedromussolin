@@ -1,7 +1,7 @@
 ## Hi! I'm Pedro Mussolin.
 
-- 🔭 Cursando Análise e desenvolvimento de sistemas
-- 👯 Estudando algumas linguagens de programação como JS, C, Java, entre outras
+- 🎓 Cursando Análise e desenvolvimento de sistemas
+- 📖 Estudando algumas linguagens de programação como JS, C, Java, entre outras
 <br>
 
 <div align="center">
