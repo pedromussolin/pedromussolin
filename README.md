@@ -1,17 +1,5 @@
 ## Hi! I'm Pedro Mussolin🫂
 
-(Português) <br>
-20 Anos <br>
-Graduação: Análise e desenvolvimento de sistemas 
-
-- Python (Uso das bibliotecas: Django, NumPy, Pandas, Selenium, PyAutoGUI, Requests entre outras)
-- ASP.NET - Desenvolvimento de sistemas web utilizando C# / ASP.NET (Modelo MVC e WebForms)
-- RPA - Desenvolvimento de robôs web e desktop para diversos fins utilizando o Framework Selenium do Python e Power Automate
-- Power BI Developer / Linguagem DAX e M (Intermediário)
-- Linguagem SQL
-- Figma (UX/UI) (Básico)
-
-(English) <br>
 20 Years <br>
 Bachelor's degree: Systems analysis and development
 
