@@ -1,6 +1,6 @@
 ## Hi! I'm Pedro Mussolin🫂
 
-(Português)
+(Português) <br>
 20 Anos <br>
 Graduação: Análise e desenvolvimento de sistemas 
 
@@ -11,7 +11,7 @@ Graduação: Análise e desenvolvimento de sistemas
 - Linguagem SQL
 - Figma (UX/UI) (Básico)
 
-(English)
+(English) <br>
 20 Years <br>
 Bachelor's degree: Systems analysis and development
 
