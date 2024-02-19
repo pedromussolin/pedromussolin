@@ -1,6 +1,6 @@
-## Hi! I'm Pedro Mussolin.
+## Hi! I'm Pedro Mussolin🫂
 
-20 Anos 
+20 Anos <br>
 Graduação: Análise e desenvolvimento de sistemas 
 
 - Python (Uso das bibliotecas: Django, NumPy, Pandas, Selenium, PyAutoGUI, Requests entre outras)
