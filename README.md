@@ -4,7 +4,7 @@
 
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
 
-I am a BackEnd developer with expertise in web development and process automation, using Python, C# and ASP.NET. I have experience in building scalable web solutions, process automation and integration with SQL and NoSQL databases.
+I am a Python developer with expertise in web development, process automation and data analysis. I have experience in building scalable web solutions, process automation, huge data amount and integration with SQL and NoSQL databases.
 - 🌱 I’m currently learning ...
   - Node.js
   - React
