@@ -21,11 +21,6 @@ I'm a backend developer specialized in Python with solid experience in:
 - **AI integrations** for smart automation and data-driven solutions
 - Experience with **Vibecoding** for creative and efficient development
 
-Currently, I'm deepening my knowledge in:
-
-- ⚡️ **Node.js**
-- ⚛️ **React**
-
 ---
 
 ## 🤝 Let's Collaborate
